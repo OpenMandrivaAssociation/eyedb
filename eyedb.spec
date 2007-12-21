@@ -18,6 +18,7 @@ URL:            http://www.eyedb.org
 License:        LGPL
 Group:          %{group}
 Source0:        %{name}-%{version}.tar.bz2
+BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot 
 
 %description
 EyeDB is an Object Database Management System (ODBMS).
