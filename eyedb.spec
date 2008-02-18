@@ -11,7 +11,7 @@
 %define _missing_doc_files_terminate_build	0
 
 Name:           %{name} 
-Summary:        EyeDB is an Object Database Management System
+Summary:        Object Database Management System
 Version:        %{version} 
 Release:        %{release} 
 URL:            http://www.eyedb.org
