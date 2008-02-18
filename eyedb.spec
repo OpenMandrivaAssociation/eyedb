@@ -2,7 +2,7 @@
 
 %define name    eyedb
 %define version 2.8.0 
-%define release %mkrel 1 
+%define release %mkrel 2 
 %define group   Databases
 
 %define _requires_exceptions devel(libcrypt(64bit))\\|devel(libdl(64bit))\\|devel(libgcc_s(64bit))\\|devel(libm(64bit))\\|devel(libnsl(64bit))\\|devel(libstdc++(64bit))  
