@@ -14,7 +14,7 @@ Name:           %{name}
 Summary:        Object Database Management System
 Version:        %{version} 
 Release:        %{release} 
-URL:            http://www.eyedb.org
+URL:            https://www.eyedb.org
 License:        LGPL
 Group:          %{group}
 Source0:        %{name}-%{version}.tar.bz2
